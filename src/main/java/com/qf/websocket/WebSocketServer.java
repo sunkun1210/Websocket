@@ -13,6 +13,9 @@ import io.netty.handler.timeout.ReadTimeoutHandler;
 
 import java.util.concurrent.TimeUnit;
 
+/***
+ * 在服务器上怎么启动这个main方法
+ */
 public class WebSocketServer {
 
     public static void main(String[] args) {
